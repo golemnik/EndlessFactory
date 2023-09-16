@@ -1,4 +1,4 @@
-package com.tech.factory.schema_2_0.coreModule.core.coreAbstr;
+package com.tech.factory.schema_2_0.coreModule.core;
 
 import com.tech.factory.schema_2_0.coreModule.core.InfoLevel;
 import com.tech.factory.schema_2_0.coreModule.core.Informer;
